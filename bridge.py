@@ -16,8 +16,6 @@ async def on_message(message):
 	log = message.content
 	await client.send_message(discord.Object(id='Channel_ID'), log)
 	
-async def on_message(message):
-	
 @client.event
 async def on_ready():
     print('Logged in as')
