@@ -16,6 +16,6 @@ I don't know, I was bored.
 
 This bot has some issues. I'll fix them when I have some motivation.
 - The code is still not that good, I guess
-- Propably some other stuff.
+- Probably some other stuff.
 
 # Need help? Ask me, Simon#2464 on Discord.
