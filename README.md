@@ -15,4 +15,4 @@ This bot has some issues. I'll fix them when I have some motivation.
 - The bot mirrors every message in the channel with the Channel_ID
 - Propably some other issues.
 
-# Need help? Ask me (Simon#2464) on Discord.
+# Need help? Ask me, Simon#2464 on Discord.
